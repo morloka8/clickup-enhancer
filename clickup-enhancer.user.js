@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ClickUp: Custom Shortcuts (Hyperkey + … + F)
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/morloka8/clickup-enhancer
 // @version      1.6.6
 // @description  Hyperkey-Shortcuts für ClickUp (Ctrl+Cmd+Alt+Shift).
 //               E  – Complete          | D  – Due Today
@@ -10,8 +10,13 @@
 //               0  – Rating löschen    | ⌫  – Delete Task
 //               ↵  – Erste Row öffnen  | F  – Sidebar ⇄ Fullscreen
 // @match        https://app.clickup.com/*
+// @author       morloka8
+// @license      MIT
+// @homepageURL  https://github.com/morloka8/clickup-enhancer
+// @supportURL   https://github.com/morloka8/clickup-enhancer/issues
 // @grant        none
 // ==/UserScript==
+
 
 (function () {
     'use strict';
