@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ClickUp Enhancer
 // @namespace    https://github.com/morloka8/clickup-enhancer
-// @version      1.6.6
+// @version      1.6.7
 // @description  Hyperkey-Shortcuts für ClickUp (Ctrl+Cmd+Alt+Shift).
 //               E  – Complete          | D  – Due Today
 //               T  – Tags              | M  – Move
