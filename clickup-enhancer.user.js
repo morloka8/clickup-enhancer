@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ClickUp: Custom Shortcuts (Hyperkey + … + F)
+// @name         ClickUp Enhancer
 // @namespace    https://github.com/morloka8/clickup-enhancer
 // @version      1.6.6
 // @description  Hyperkey-Shortcuts für ClickUp (Ctrl+Cmd+Alt+Shift).
